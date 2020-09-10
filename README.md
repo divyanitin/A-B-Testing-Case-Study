@@ -1,4 +1,5 @@
 # A-B-Testing-Case-Study
+## By Divya Nitin Naidu
 
 This is an A/B testing case study that I have worked on as part of Udacity's Data Analyst NanoDegree Program. This case study is developed and used by Udacity in many of their programs.
 
